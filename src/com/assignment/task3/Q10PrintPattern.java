@@ -9,6 +9,8 @@ public class Q10PrintPattern {
                         * * * * *   * * * * *
                         * * * * * * * * * * *
 
+// Hint : No of spaces = 4n+1
+// Else print *
          */
     }
 }
